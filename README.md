@@ -15,9 +15,7 @@ Grab the jar for your Minecraft version from the table below (or from the
 alongside [Fabric Loader](https://fabricmc.net/use/) and the dependencies listed
 under [Requirements](#requirements).
 
-| Mod version | Tag | Released | Minecraft | Downloads |
-|---|---|---|---|---|
-| _no releases yet_ | | | | |
+<!-- VERSION_TABLE -->
 
 The table above is generated from [`versions.json`](versions.json) on every
 release — see [Automation](#automation).
@@ -93,5 +91,3 @@ workflow. On each release it:
 See each release's notes and the bundled `LICENSE` inside the jar for the
 license covering that build. Historical builds released as CC0-1.0 remain
 available under CC0-1.0.
-
-Current builds are proprietary — **All Rights Reserved**; see [`NOTICE`](NOTICE).

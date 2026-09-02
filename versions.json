@@ -5,8 +5,33 @@
     "name": "Lazuli"
   },
   "releasesRepo": "Probastian/lazulite-mod-releases",
-  "generatedAt": "2026-09-01T14:28:24Z",
+  "generatedAt": "2026-09-02T19:39:24Z",
   "releases": [
+    {
+      "modVersion": "1.14.0.0",
+      "tag": "v1.14.0.0",
+      "releaseDate": "2026-09-02",
+      "artifacts": [
+        {
+          "minecraftVersion": "26.2",
+          "jarFileName": "fabric-26.2-1.14.0.0.jar",
+          "downloadUrl": "https://github.com/Probastian/lazulite-mod-releases/releases/download/v1.14.0.0/fabric-26.2-1.14.0.0.jar",
+          "sha256": "423fef4184fff6b600c34eb455634a906f664668fb4f629dbf702e5f0e87b482"
+        },
+        {
+          "minecraftVersion": "26.1",
+          "jarFileName": "fabric-26.1-1.14.0.0.jar",
+          "downloadUrl": "https://github.com/Probastian/lazulite-mod-releases/releases/download/v1.14.0.0/fabric-26.1-1.14.0.0.jar",
+          "sha256": "48a2adf3fb6c6aba960fe806da5eea166e2ffc2f5da1072964e44777660aec2a"
+        },
+        {
+          "minecraftVersion": "1.21.11",
+          "jarFileName": "fabric-1.21.11-1.14.0.0.jar",
+          "downloadUrl": "https://github.com/Probastian/lazulite-mod-releases/releases/download/v1.14.0.0/fabric-1.21.11-1.14.0.0.jar",
+          "sha256": "6623f2fd2ad8855dfde046466e9c25ebb00508487cc5c4f9fa4ce6860c7e681b"
+        }
+      ]
+    },
     {
       "modVersion": "1.13.5.0",
       "tag": "v1.13.5.0",
